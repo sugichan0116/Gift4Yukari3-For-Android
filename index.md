@@ -1,3 +1,8 @@
+---
+layout: default
+title: Policy
+---
+
 ## Privacy Policy
 
 Dj.sugi Studio built the Gift for Yukari-san app as a Free app. This SERVICE is provided by Dj.sugi Studio at no cost and is intended for use as is.
